@@ -1,9 +1,9 @@
-![image](https://user-images.githubusercontent.com/121853732/210327658-4fb1c617-29ad-407d-b263-3a6303e99eee.png)
+![image](https://user-images.githubusercontent.com/121853732/210327711-e2eba192-b491-4a98-a9d3-d4b069bda6af.png)
 
 
 ### Welcome fellow Devs!👋 
 
-This account is to keep the repos of the youTube channel => Bite-Size : Front-End
+This account is to keep the educative content/repos of the youTube channel => Bite-Size : Front-End
 
 - 👀  Let's create things from scratch, learn new stuff and have fun at the same time...
 - 💞️  Colloborations on any kinds of Front-End Development & Technical Writing projects are all welcome.
