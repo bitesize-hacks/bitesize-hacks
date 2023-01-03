@@ -1,13 +1,12 @@
 (![image](https://user-images.githubusercontent.com/121853732/210319725-519832a6-3d40-41fc-a951-73dc7e58f253.png))
 
 
-### Hi there!👋 
+### Welcome fellow Devs!👋 
 
-Dakota is here! I am a Front-End Developer & Technical Writer & Instructor. 
+This account is to keep the repos of the youTube channel => Bite-Size : Front-End
 
-- 👀  I enjoy creating things from scratch and helping people.
-- 💞️  I’d be pleased to collaborate on any kinds of Front-End Development & Technical Writing projects.
-
+- 👀  Let's create things from scratch, learn and have fun...
+- 💞️  Colloborations on any kinds of Front-End Development & Technical Writing projects are all welcome.
 
 <hr>
 
