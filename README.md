@@ -1,11 +1,11 @@
-(![image](https://user-images.githubusercontent.com/121853732/210319725-519832a6-3d40-41fc-a951-73dc7e58f253.png))
+![image](https://user-images.githubusercontent.com/121853732/210326673-3dfe0b7c-2348-484e-b610-84ad4c481243.png)
 
 
 ### Welcome fellow Devs!👋 
 
 This account is to keep the repos of the youTube channel => Bite-Size : Front-End
 
-- 👀  Let's create things from scratch, learn and have fun...
+- 👀  Let's create things from scratch, learn new stuff and have fun at the same time...
 - 💞️  Colloborations on any kinds of Front-End Development & Technical Writing projects are all welcome.
 
 <hr>
